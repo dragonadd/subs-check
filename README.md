@@ -46,6 +46,11 @@
 
 ### 🚀 一键安装（Linux）
 
+## webui 
+```
+http://127.0.0.1:8199/admin
+```
+
 ```bash
 # 默认安装
 bash <(curl -fsSL https://raw.githubusercontent.com/beck-8/subs-check/master/install.sh)
